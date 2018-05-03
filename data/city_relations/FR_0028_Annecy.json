@@ -1,0 +1,24 @@
+{
+    "bounds": {
+        "minlat": 45.8280024,
+        "minlon": 6.0484121,
+        "maxlat": 45.9766928,
+        "maxlon": 6.2043932
+    },
+    "id": 6791758,
+    "tags": {
+        "addr:postcode": "74000",
+        "admin_level": "8",
+        "admin_type:FR": "commune nouvelle",
+        "boundary": "administrative",
+        "name": "Annecy",
+        "ref:INSEE": "74010",
+        "start_date": "2017-01-01",
+        "type": "boundary",
+        "wikidata": "Q50189",
+        "wikipedia": "fr:Annecy"
+    },
+    "population": 121809.0,
+    "lat": 45.908795,
+    "lon": 6.1198672
+}

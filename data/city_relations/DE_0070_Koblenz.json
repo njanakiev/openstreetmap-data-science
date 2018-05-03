@@ -1,0 +1,30 @@
+{
+    "bounds": {
+        "minlat": 50.2829093,
+        "minlon": 7.4782507,
+        "maxlat": 50.4096941,
+        "maxlon": 7.6964354
+    },
+    "id": 62512,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "489",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "07111000",
+        "de:place": "city",
+        "de:regionalschluessel": "071110000000",
+        "name": "Koblenz",
+        "name:ar": "\u0643\u0648\u0628\u0644\u0646\u062a\u0633",
+        "name:la": "Confluentibus",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q3104",
+        "wikipedia": "de:Koblenz"
+    },
+    "population": 110643.0,
+    "lat": 50.3533278,
+    "lon": 7.5943951
+}

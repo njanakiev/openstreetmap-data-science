@@ -1,0 +1,38 @@
+{
+    "bounds": {
+        "minlat": 50.9759776,
+        "minlon": 2.2396964,
+        "maxlat": 51.0581006,
+        "maxlon": 2.4464717
+    },
+    "id": 139610,
+    "tags": {
+        "addr:postcode": "59140;59240;59640",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Dunkerque",
+        "name:de": "D\u00fcnkirchen",
+        "name:el": "\u0394\u03bf\u03c5\u03bd\u03ba\u03ad\u03c1\u03ba\u03b7",
+        "name:en": "Dunkirk",
+        "name:es": "Dunkerque",
+        "name:fr": "Dunkerque",
+        "name:it": "Dunkerque",
+        "name:la": "Dunquerca",
+        "name:lt": "Diunkerkas",
+        "name:nl": "Duinkerke",
+        "name:pl": "Dunkierka",
+        "name:pt": "Dunquerque",
+        "name:ru": "\u0414\u044e\u043d\u043a\u0435\u0440\u043a",
+        "name:sr": "\u0414\u0435\u043d\u043a\u0435\u0440\u043a",
+        "population": "92005",
+        "ref:INSEE": "59183",
+        "source:name": "INSEE COG",
+        "source:population": "INSEE 2013",
+        "type": "boundary",
+        "wikidata": "Q45797",
+        "wikipedia": "fr:Dunkerque"
+    },
+    "population": 92005.0,
+    "lat": 51.0347708,
+    "lon": 2.3772525
+}

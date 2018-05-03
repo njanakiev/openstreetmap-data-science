@@ -1,0 +1,24 @@
+{
+    "bounds": {
+        "minlat": -20.6229748,
+        "minlon": 164.1166474,
+        "maxlat": -20.3696556,
+        "maxlon": 164.5534552
+    },
+    "id": 378435,
+    "tags": {
+        "addr:postcode": "98850",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Koumac",
+        "population": "3690",
+        "ref:INSEE": "98812",
+        "source:population": "ISEE 2009",
+        "type": "boundary",
+        "wikidata": "Q9725",
+        "wikipedia": "fr:Koumac"
+    },
+    "population": 3690.0,
+    "lat": -20.5613596,
+    "lon": 164.2811715
+}

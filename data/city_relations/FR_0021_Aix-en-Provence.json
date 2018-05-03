@@ -1,0 +1,37 @@
+{
+    "bounds": {
+        "minlat": 43.4461058,
+        "minlon": 5.2694745,
+        "maxlat": 43.6259224,
+        "maxlon": 5.5063013
+    },
+    "id": 70279,
+    "tags": {
+        "addr:postcode": "13090;13100",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Aix-en-Provence",
+        "name:an": "Ais de Proven\u00e7a",
+        "name:bg": "\u0415\u043a\u0441 \u0430\u043d \u041f\u0440\u043e\u0432\u0430\u043d\u0441",
+        "name:ca": "Ais de Proven\u00e7a",
+        "name:he": "\u05d0\u05e7\u05e1-\u05d0\u05df-\u05e4\u05e8\u05d5\u05d1\u05d0\u05e0\u05e1",
+        "name:ja": "\u30a8\u30af\u30b9\uff1d\u30a2\u30f3\uff1d\u30d7\u30ed\u30f4\u30a1\u30f3\u30b9",
+        "name:ko": "\uc5d1\uc0c1\ud504\ub85c\ubc29\uc2a4",
+        "name:la": "Aquae Sextiae",
+        "name:lt": "Provanso Eksas",
+        "name:oc": "Ais de Proven\u00e7a",
+        "name:ru": "\u042d\u043a\u0441-\u0430\u043d-\u041f\u0440\u043e\u0432\u0430\u043d\u0441",
+        "name:sr": "\u0415\u043a\u0441 \u0430\u043d \u041f\u0440\u043e\u0432\u0430\u043d\u0441",
+        "name:uk": "\u0404\u043a\u0441-\u0430\u043d-\u041f\u0440\u043e\u0432\u0430\u043d\u0441",
+        "name:zh": "\u666e\u7f57\u65fa\u65af\u5730\u533a\u827e\u514b\u65af",
+        "population": "141438",
+        "ref:INSEE": "13001",
+        "source:population": "INSEE 2013",
+        "type": "boundary",
+        "wikidata": "Q47465",
+        "wikipedia": "fr:Aix-en-Provence"
+    },
+    "population": 141438.0,
+    "lat": 43.5298424,
+    "lon": 5.4474738
+}

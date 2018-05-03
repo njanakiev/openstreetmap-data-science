@@ -1,0 +1,32 @@
+{
+    "bounds": {
+        "minlat": 47.7218791,
+        "minlon": 7.282494,
+        "maxlat": 47.7833721,
+        "maxlon": 7.3686272
+    },
+    "id": 38246,
+    "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Mulhouse",
+        "name:de": "M\u00fclhausen",
+        "name:gsw": "Milh\u00fcsa",
+        "name:lt": "Miul\u016bzas",
+        "name:oc": "M\u00fclhausen",
+        "name:pl": "Miluza",
+        "name:ru": "\u041c\u044e\u043b\u0443\u0437",
+        "name:sr": "\u041c\u0438\u043b\u0443\u0437",
+        "note:addr:postcode": "postecode detailled on relation 4546645 and 4546646",
+        "population": "109588",
+        "ref:INSEE": "68224",
+        "source:population": "INSEE 2013",
+        "type": "boundary",
+        "website": "http://www.ville-mulhouse.fr",
+        "wikidata": "Q79815",
+        "wikipedia": "fr:Mulhouse"
+    },
+    "population": 109588.0,
+    "lat": 47.7494188,
+    "lon": 7.3399355
+}

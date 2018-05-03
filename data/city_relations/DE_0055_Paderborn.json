@@ -1,0 +1,27 @@
+{
+    "bounds": {
+        "minlat": 51.6542346,
+        "minlon": 8.6362871,
+        "maxlat": 51.8008385,
+        "maxlon": 8.9005872
+    },
+    "id": 148074,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "9.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "3097",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05774032",
+        "de:place": "town",
+        "de:regionalschluessel": "057740032032",
+        "name": "Paderborn",
+        "name:prefix": "Stadt",
+        "type": "boundary",
+        "wikidata": "Q2971",
+        "wikipedia": "de:Paderborn"
+    },
+    "population": 143659.0,
+    "lat": 51.7177044,
+    "lon": 8.752653
+}

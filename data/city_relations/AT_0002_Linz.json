@@ -1,0 +1,25 @@
+{
+    "bounds": {
+        "minlat": 48.2113712,
+        "minlon": 14.24572,
+        "maxlat": 48.3786926,
+        "maxlon": 14.4092169
+    },
+    "id": 86708,
+    "tags": {
+        "admin_level": "6",
+        "boundary": "administrative",
+        "name": "Linz",
+        "name:ar": "\u0644\u0646\u062a\u0633",
+        "name:prefix:at": "Statutarstadt",
+        "note": "\"Statutarstadt\" equals both admin_levels 6 and 8",
+        "ref": "L",
+        "ref:at:gkz": "401",
+        "type": "boundary",
+        "wikidata": "Q41329",
+        "wikipedia": "de:Linz"
+    },
+    "population": 197283.0,
+    "lat": 48.3059078,
+    "lon": 14.286198
+}

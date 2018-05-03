@@ -1,0 +1,29 @@
+{
+    "bounds": {
+        "minlat": 51.4155255,
+        "minlon": 7.3024422,
+        "maxlat": 51.6000415,
+        "maxlon": 7.638157
+    },
+    "id": 1829065,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "389",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05913000",
+        "de:place": "city",
+        "de:regionalschluessel": "059130000000",
+        "name": "Dortmund",
+        "name:ar": "\u062f\u0648\u0631\u062a\u0645\u0646\u062f",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q1295",
+        "wikipedia": "de:Dortmund"
+    },
+    "population": 600933.0,
+    "lat": 51.5142273,
+    "lon": 7.4652789
+}

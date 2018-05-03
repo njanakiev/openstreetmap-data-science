@@ -1,0 +1,25 @@
+{
+    "bounds": {
+        "minlat": 46.5743838,
+        "minlon": 14.2102806,
+        "maxlat": 46.7086771,
+        "maxlon": 14.416258
+    },
+    "id": 105870,
+    "tags": {
+        "admin_level": "6",
+        "boundary": "administrative",
+        "name": "Klagenfurt am W\u00f6rthersee",
+        "name:prefix:at": "Statutarstadt",
+        "name:sl": "Celovec ob Vrbskem jezeru",
+        "note": "\"Statutarstadt\" equals both admin_levels 6 and 8",
+        "ref": "K",
+        "ref:at:gkz": "201",
+        "type": "boundary",
+        "wikidata": "Q41753",
+        "wikipedia": "de:Klagenfurt am W\u00f6rthersee"
+    },
+    "population": 100316.0,
+    "lat": 46.6228162,
+    "lon": 14.3079604
+}

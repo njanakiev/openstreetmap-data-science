@@ -1,0 +1,29 @@
+{
+    "bounds": {
+        "minlat": 51.3475714,
+        "minlon": 6.8943442,
+        "maxlat": 51.5342019,
+        "maxlon": 7.13765
+    },
+    "id": 62713,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "408",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05113000",
+        "de:place": "city",
+        "de:regionalschluessel": "051130000000",
+        "name": "Essen",
+        "name:cs": "Essen",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q2066",
+        "wikipedia": "de:Essen"
+    },
+    "population": 569884.0,
+    "lat": 51.457087,
+    "lon": 7.011429
+}

@@ -1,0 +1,32 @@
+{
+    "bounds": {
+        "minlat": 53.4711654,
+        "minlon": 8.48301,
+        "maxlat": 53.6101863,
+        "maxlon": 8.6593672
+    },
+    "id": 62658,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "991",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "04012000",
+        "de:place": "city",
+        "de:regionalschluessel": "040120000000",
+        "name": "Bremerhaven",
+        "name:de": "Bremerhaven",
+        "name:prefix": "Stadt",
+        "name:ru": "\u0411\u0440\u0435\u043c\u0435\u0440\u0445\u0430\u0444\u0435\u043d",
+        "name:sr": "\u0411\u0440\u0435\u043c\u0435\u0440\u0445\u0430\u0444\u0435\u043d",
+        "note": "Achtung! Die Verwaltungsgrenzen verlaufen NICHT an der coastline, sondern in der Weser. Amtliche Stadtgliederung beachten. http://www.bremerhaven.de/stadt-und-politik/stadtinformation/statistik-und-zahlen/",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q2706",
+        "wikipedia": "de:Bremerhaven"
+    },
+    "population": 117281.0,
+    "lat": 53.5522264,
+    "lon": 8.5865509
+}

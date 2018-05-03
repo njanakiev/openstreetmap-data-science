@@ -1,0 +1,24 @@
+{
+    "bounds": {
+        "minlat": 47.0118864,
+        "minlon": 15.3497141,
+        "maxlat": 47.1345,
+        "maxlon": 15.5342006
+    },
+    "id": 34719,
+    "tags": {
+        "admin_level": "6",
+        "boundary": "administrative",
+        "name": "Graz",
+        "name:prefix:at": "Statutarstadt",
+        "name:ru": "\u0413\u0440\u0430\u0446",
+        "note": "\"Statutarstadt\" equals both admin_levels 6 and 8",
+        "ref:at:gkz": "601",
+        "type": "boundary",
+        "wikidata": "Q13298",
+        "wikipedia": "de:Graz"
+    },
+    "population": 280000.0,
+    "lat": 47.0702563,
+    "lon": 15.4385716
+}

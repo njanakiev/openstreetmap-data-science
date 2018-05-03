@@ -1,0 +1,27 @@
+{
+    "bounds": {
+        "minlat": 48.4126792,
+        "minlon": 9.1148655,
+        "maxlat": 48.5786138,
+        "maxlon": 9.2555868
+    },
+    "id": 2772661,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "9.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "2244",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "08415061",
+        "de:regionalschluessel": "084150061061",
+        "name": "Reutlingen",
+        "name:prefix": "Stadt",
+        "source": "LGL, www.lgl-bw.de",
+        "type": "boundary",
+        "wikidata": "Q3085",
+        "wikipedia": "de:Reutlingen"
+    },
+    "population": 112099.0,
+    "lat": 48.4919508,
+    "lon": 9.2114144
+}

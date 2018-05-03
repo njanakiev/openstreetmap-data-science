@@ -1,0 +1,28 @@
+{
+    "bounds": {
+        "minlat": 51.1658028,
+        "minlon": 7.0140725,
+        "maxlat": 51.3180616,
+        "maxlon": 7.31343
+    },
+    "id": 62478,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "724",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05124000",
+        "de:place": "city",
+        "de:regionalschluessel": "051240000000",
+        "name": "Wuppertal",
+        "name:ar": "\u0641\u0648\u0628\u0631\u062a\u0627\u0644",
+        "name:prefix": "Stadt",
+        "type": "boundary",
+        "wikidata": "Q2107",
+        "wikipedia": "de:Wuppertal"
+    },
+    "population": 361077.0,
+    "lat": 51.264018,
+    "lon": 7.1780374
+}

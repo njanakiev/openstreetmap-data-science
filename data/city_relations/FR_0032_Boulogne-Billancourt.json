@@ -1,0 +1,29 @@
+{
+    "bounds": {
+        "minlat": 48.8214969,
+        "minlon": 2.222799,
+        "maxlat": 48.853442,
+        "maxlon": 2.2627757
+    },
+    "id": 72020,
+    "tags": {
+        "addr:postcode": "92100",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Boulogne-Billancourt",
+        "name:ar": "\u0628\u0648\u0644\u0648\u0646-\u0628\u064a\u0627\u0646\u0643\u0648\u0631",
+        "name:fr": "Boulogne-Billancourt",
+        "name:ja": "\u30d6\u30ed\u30fc\u30cb\u30e5\uff1d\u30d3\u30e4\u30f3\u30af\u30fc\u30eb",
+        "name:lt": "Bulon\u0117-Bijank\u016bras",
+        "name:ru": "\u0411\u0443\u043b\u043e\u043d\u044c-\u0411\u0438\u0439\u0430\u043d\u043a\u0443\u0440",
+        "population": "114205",
+        "ref:INSEE": "92012",
+        "source:population": "INSEE 2013",
+        "type": "boundary",
+        "wikidata": "Q172455",
+        "wikipedia": "fr:Boulogne-Billancourt"
+    },
+    "population": 114205.0,
+    "lat": 48.8356649,
+    "lon": 2.240206
+}

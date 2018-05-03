@@ -1,0 +1,25 @@
+{
+    "bounds": {
+        "minlat": 41.8739274,
+        "minlon": 8.5856726,
+        "maxlat": 41.9773874,
+        "maxlon": 8.8261006
+    },
+    "id": 73283,
+    "tags": {
+        "addr:postcode": "20000;20090",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Ajaccio",
+        "name:co": "Aiacciu",
+        "ref:INSEE": "2A004",
+        "source:addr:postcode": "La Poste - 10/2015",
+        "type": "boundary",
+        "website": "http://www.ajaccio.fr/",
+        "wikidata": "Q40104",
+        "wikipedia": "fr:Ajaccio"
+    },
+    "population": 66809.0,
+    "lat": 41.9263991,
+    "lon": 8.7376029
+}

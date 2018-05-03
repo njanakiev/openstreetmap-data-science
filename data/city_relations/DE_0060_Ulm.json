@@ -1,0 +1,32 @@
+{
+    "bounds": {
+        "minlat": 48.3066627,
+        "minlon": 9.8420502,
+        "maxlat": 48.4685153,
+        "maxlon": 10.0428303
+    },
+    "id": 62495,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "689",
+        "admin_level": "6",
+        "boduble": "yes",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "08421000",
+        "de:place": "city",
+        "de:regionalschluessel": "084210000000",
+        "name": "Ulm",
+        "name:ar": "\u0623\u0648\u0644\u0645",
+        "name:prefix": "Universit\u00e4tsstadt",
+        "name:ru": "\u0423\u043b\u044c\u043c",
+        "note": "Kreisfrei; Stadtkreis Ulm",
+        "source": "LGL, www.lgl-bw.de",
+        "type": "boundary",
+        "wikidata": "Q3012",
+        "wikipedia": "de:Ulm"
+    },
+    "population": 121648.0,
+    "lat": 48.3973944,
+    "lon": 9.9932755
+}

@@ -1,0 +1,24 @@
+{
+    "bounds": {
+        "minlat": 47.2107727,
+        "minlon": 11.3016374,
+        "maxlat": 47.3601261,
+        "maxlon": 11.4559615
+    },
+    "id": 4835169,
+    "tags": {
+        "admin_level": "6",
+        "boundary": "administrative",
+        "name": "Innsbruck",
+        "name:prefix:at": "Statutarstadt",
+        "note": "\"Statutarstadt\" equals both admin_levels 6 and 8",
+        "ref": "IN",
+        "ref:at:gkz": "701",
+        "type": "boundary",
+        "wikidata": "Q1735",
+        "wikipedia": "en:Innsbruck"
+    },
+    "population": 127000.0,
+    "lat": 47.2654296,
+    "lon": 11.3927685
+}

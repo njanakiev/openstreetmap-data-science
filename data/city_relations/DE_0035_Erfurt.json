@@ -1,0 +1,29 @@
+{
+    "bounds": {
+        "minlat": 50.8904895,
+        "minlon": 10.8546679,
+        "maxlat": 51.079978,
+        "maxlon": 11.1751358
+    },
+    "id": 62745,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "405",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "16051000",
+        "de:place": "city",
+        "de:regionalschluessel": "160510000000",
+        "name": "Erfurt",
+        "name:ar": "\u0625\u0631\u0641\u0648\u0631\u062a",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q1729",
+        "wikipedia": "de:Erfurt"
+    },
+    "population": 212203.0,
+    "lat": 50.9777974,
+    "lon": 11.0287364
+}

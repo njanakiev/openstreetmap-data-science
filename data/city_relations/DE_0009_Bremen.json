@@ -1,0 +1,37 @@
+{
+    "bounds": {
+        "minlat": 53.0110367,
+        "minlon": 8.4815929,
+        "maxlat": 53.5984187,
+        "maxlon": 8.9907318
+    },
+    "id": 62559,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "358",
+        "admin_level": "6",
+        "border_type": "city",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "04011000",
+        "de:place": "city",
+        "de:regionalschluessel": "040110000000",
+        "ele": "11",
+        "is_in:iso_3166_2": "DE-HB",
+        "name": "Bremen",
+        "name:ar": "\u0628\u0631\u064a\u0645\u0646",
+        "name:cs": "Br\u00e9my",
+        "name:lv": "Br\u0113mene",
+        "name:prefix": "Stadt",
+        "name:ru": "\u0411\u0440\u0435\u043c\u0435\u043d",
+        "note": "Achtung! Die Verwaltungsgrenzen verlaufen NICHT an der coastline, sondern in der Weser. Amtliche Stadtgliederung beachten.",
+        "population": "551767",
+        "type": "boundary",
+        "website": "http://www.bremen.de",
+        "wikidata": "Q24879",
+        "wikipedia": "de:Bremen"
+    },
+    "population": 551415.0,
+    "lat": 53.0758196,
+    "lon": 8.8071646
+}

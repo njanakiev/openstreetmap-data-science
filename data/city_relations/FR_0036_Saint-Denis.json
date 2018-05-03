@@ -1,0 +1,27 @@
+{
+    "bounds": {
+        "minlat": -21.0150497,
+        "minlon": 55.3756284,
+        "maxlat": -20.8717136,
+        "maxlon": 55.5128324
+    },
+    "id": 192468,
+    "tags": {
+        "addr:postcode": "97400;97417;97490",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "capital": "yes",
+        "name": "Saint-Denis",
+        "name:ja": "\u30b5\u30f3\uff1d\u30c9\u30cb",
+        "population": "142442",
+        "ref:INSEE": "97411",
+        "source:population": "INSEE 2013",
+        "type": "boundary",
+        "website": "http://www.saintdenis.re",
+        "wikidata": "Q47045",
+        "wikipedia": "fr:Saint-Denis (La R\u00e9union)"
+    },
+    "population": 106785.0,
+    "lat": 48.935773,
+    "lon": 2.3580232
+}

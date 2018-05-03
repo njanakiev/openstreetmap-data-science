@@ -1,0 +1,34 @@
+{
+    "bounds": {
+        "minlat": 49.5327697,
+        "minlon": 10.9153629,
+        "maxlat": 49.6455844,
+        "maxlon": 11.0536043
+    },
+    "id": 62403,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "1199",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "09562000",
+        "de:place": "city",
+        "de:regionalschluessel": "095620000000",
+        "is_in:continent": "Europe",
+        "is_in:country": "Bundesrepublik Deutschland",
+        "is_in:region": "Mittelfranken",
+        "is_in:state": "Bayern",
+        "name": "Erlangen",
+        "name:ar": "\u0625\u0631\u0644\u0646\u063a\u0646",
+        "name:prefix:de": "Kreisfreie Stadt",
+        "name_suffix:en": "(district city)",
+        "name_suffix:fr": "(ville-arrondissement)",
+        "type": "boundary",
+        "wikidata": "Q3126",
+        "wikipedia": "de:Erlangen"
+    },
+    "population": 105624.0,
+    "lat": 49.5981187,
+    "lon": 11.003645
+}

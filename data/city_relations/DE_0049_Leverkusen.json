@@ -1,0 +1,28 @@
+{
+    "bounds": {
+        "minlat": 51.0111245,
+        "minlon": 6.8977575,
+        "maxlat": 51.0971563,
+        "maxlon": 7.1161151
+    },
+    "id": 62449,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "507",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05316000",
+        "de:place": "city",
+        "de:regionalschluessel": "053160000000",
+        "name": "Leverkusen",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q2938",
+        "wikipedia": "de:Leverkusen"
+    },
+    "population": 160819.0,
+    "lat": 51.0324743,
+    "lon": 6.9881194
+}

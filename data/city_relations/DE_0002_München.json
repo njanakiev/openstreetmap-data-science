@@ -1,0 +1,43 @@
+{
+    "bounds": {
+        "minlat": 48.0616244,
+        "minlon": 11.360777,
+        "maxlat": 48.2481162,
+        "maxlon": 11.7229083
+    },
+    "id": 62428,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "1956",
+        "admin_level": "6",
+        "attribution": "Open Data LH M\u00fcnchen 2017",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "09162000",
+        "de:place": "city",
+        "de:regionalschluessel": "091620000000",
+        "ele": "519",
+        "name": "M\u00fcnchen",
+        "name:ca": "Munic",
+        "name:cs": "Mnichov",
+        "name:el": "\u039c\u03cc\u03bd\u03b1\u03c7\u03bf",
+        "name:en": "Munich",
+        "name:fa": "\u0645\u0648\u0646\u06cc\u062e",
+        "name:fr": "Munich",
+        "name:fy": "M\u00fcnchen",
+        "name:nl": "M\u00fcnchen",
+        "name:prefix": "Landeshauptstadt",
+        "name:ru": "\u041c\u044e\u043d\u0445\u0435\u043d",
+        "name:sk": "Mn\u00edchov",
+        "name:ta": "\u0bae\u0bbf\u0baf\u0bc2\u0ba9\u0bbf\u0b95\u0bcd",
+        "name:tzl": "M\u00fcntsch",
+        "old_name:sl": "Monakovo",
+        "type": "boundary",
+        "website": "https://www.muenchen.de/",
+        "wikidata": "Q1726",
+        "wikipedia": "de:M\u00fcnchen"
+    },
+    "population": 1528849.0,
+    "lat": 48.1371079,
+    "lon": 11.5753822
+}

@@ -1,0 +1,35 @@
+{
+    "bounds": {
+        "minlat": 53.0831237,
+        "minlon": 8.1295153,
+        "maxlat": 53.2047617,
+        "maxlon": 8.3122117
+    },
+    "id": 62409,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "584",
+        "admin_level": "6",
+        "alt_name": "Oldenburg (Oldenburg), Stadt",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "03403000",
+        "de:place": "city",
+        "de:regionalschluessel": "034030000000",
+        "name": "Oldenburg",
+        "name:ar": "\u0623\u0648\u0644\u062f\u0646\u0628\u0648\u0631\u063a",
+        "name:de": "Oldenburg",
+        "name:fr": "Oldenbourg",
+        "name:prefix": "Stadt",
+        "name:ru": "\u041e\u043b\u044c\u0434\u0435\u043d\u0431\u0443\u0440\u0433",
+        "name:suffix": "(Oldenburg)",
+        "name:suffix:de": "(Oldenburg)",
+        "name:suffix:fr": "(ville-arrondissement)",
+        "type": "boundary",
+        "wikidata": "Q2936",
+        "wikipedia": "de:Oldenburg (Oldb)"
+    },
+    "population": 163830.0,
+    "lat": 53.1389753,
+    "lon": 8.2146017
+}

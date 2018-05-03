@@ -1,0 +1,29 @@
+{
+    "bounds": {
+        "minlat": 47.7512115,
+        "minlon": 12.9856478,
+        "maxlat": 47.8543925,
+        "maxlon": 13.1272842
+    },
+    "id": 86538,
+    "tags": {
+        "admin_level": "6",
+        "boundary": "administrative",
+        "name": "Salzburg",
+        "name:ar": "\u0632\u0627\u0644\u062a\u0633\u0628\u0648\u0631\u063a",
+        "name:eo": "Salcburgo",
+        "name:it": "Salisburgo",
+        "name:prefix:at": "Statutarstadt",
+        "name:pt": "Salisburgo",
+        "note": "\"Statutarstadt\" equals both admin_levels 6 and 8",
+        "postal_code": "5020",
+        "ref": "S",
+        "ref:at:gkz": "501",
+        "type": "boundary",
+        "wikidata": "Q34713",
+        "wikipedia": "de:Salzburg"
+    },
+    "population": 152083.0,
+    "lat": 47.7981346,
+    "lon": 13.0464806
+}

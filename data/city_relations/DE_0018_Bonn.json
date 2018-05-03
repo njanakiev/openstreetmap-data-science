@@ -1,0 +1,31 @@
+{
+    "bounds": {
+        "minlat": 50.6326909,
+        "minlon": 7.0225354,
+        "maxlat": 50.7744233,
+        "maxlon": 7.2106772
+    },
+    "id": 62508,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "351",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05314000",
+        "de:place": "city",
+        "de:regionalschluessel": "053140000000",
+        "election:level:de": "3",
+        "name": "Bonn",
+        "name:alt_prefix": "Bundesstadt",
+        "name:ar": "\u0628\u0648\u0646",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q586",
+        "wikipedia": "de:Bonn"
+    },
+    "population": 320128.0,
+    "lat": 50.735851,
+    "lon": 7.10066
+}

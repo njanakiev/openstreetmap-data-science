@@ -1,0 +1,25 @@
+{
+    "bounds": {
+        "minlat": 51.4830052,
+        "minlon": 9.8001329,
+        "maxlat": 51.5908839,
+        "maxlon": 10.0536032
+    },
+    "id": 191361,
+    "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "03159016",
+        "de:regionalschluessel": "031590016016",
+        "name": "G\u00f6ttingen",
+        "name:ar": "\u063a\u0648\u062a\u064a\u0646\u063a\u0646",
+        "name:prefix": "Stadt",
+        "population": "134212",
+        "type": "boundary",
+        "wikidata": "Q3033",
+        "wikipedia": "de:G\u00f6ttingen"
+    },
+    "population": 134212.0,
+    "lat": 51.5327604,
+    "lon": 9.9352051
+}

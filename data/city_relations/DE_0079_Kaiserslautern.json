@@ -1,0 +1,27 @@
+{
+    "bounds": {
+        "minlat": 49.3587066,
+        "minlon": 7.6271007,
+        "maxlat": 49.4951266,
+        "maxlon": 7.8706819
+    },
+    "id": 62652,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "480",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "07312000",
+        "de:place": "city",
+        "de:regionalschluessel": "073120000000",
+        "name": "Kaiserslautern",
+        "name:prefix": "Stadt",
+        "type": "boundary",
+        "wikidata": "Q3758",
+        "wikipedia": "de:Kaiserslautern"
+    },
+    "population": 97162.0,
+    "lat": 49.4432174,
+    "lon": 7.7689951
+}

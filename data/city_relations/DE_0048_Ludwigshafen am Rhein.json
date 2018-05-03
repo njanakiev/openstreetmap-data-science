@@ -1,0 +1,28 @@
+{
+    "bounds": {
+        "minlat": 49.4267539,
+        "minlon": 8.2982215,
+        "maxlat": 49.5480579,
+        "maxlon": 8.4769401
+    },
+    "id": 62347,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "516",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "07314000",
+        "de:place": "city",
+        "de:regionalschluessel": "073140000000",
+        "name": "Ludwigshafen am Rhein",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q2910",
+        "wikipedia": "de:Ludwigshafen am Rhein"
+    },
+    "population": 163340.0,
+    "lat": 49.479236,
+    "lon": 8.439117
+}

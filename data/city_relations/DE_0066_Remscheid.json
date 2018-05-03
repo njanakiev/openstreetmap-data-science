@@ -1,0 +1,28 @@
+{
+    "bounds": {
+        "minlat": 51.1422583,
+        "minlon": 7.1310167,
+        "maxlat": 51.2268325,
+        "maxlon": 7.3093209
+    },
+    "id": 62455,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "618",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05120000",
+        "de:place": "city",
+        "de:regionalschluessel": "051200000000",
+        "name": "Remscheid",
+        "name:ar": "\u0631\u0645\u0634\u0627\u064a\u062f",
+        "name:prefix": "Stadt",
+        "type": "boundary",
+        "wikidata": "Q3097",
+        "wikipedia": "de:Remscheid"
+    },
+    "population": 116827.0,
+    "lat": 51.1798706,
+    "lon": 7.1943544
+}

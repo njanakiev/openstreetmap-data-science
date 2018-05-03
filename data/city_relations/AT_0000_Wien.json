@@ -1,0 +1,41 @@
+{
+    "bounds": {
+        "minlat": 48.1179069,
+        "minlon": 16.181831,
+        "maxlat": 48.3226679,
+        "maxlon": 16.5775132
+    },
+    "id": 109166,
+    "tags": {
+        "ISO3166-2": "AT-9",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "capital": "yes",
+        "description": "Wien (Vienna) is \"Bundesland\" and \"Statutarstadt\" which equals admin_levels 4, 6, 8",
+        "name": "Wien",
+        "name:be": "\u0412\u0435\u043d\u0430",
+        "name:be-tarask": "\u0412\u0435\u043d\u0430",
+        "name:ca": "Viena",
+        "name:de": "Wien",
+        "name:en": "Vienna",
+        "name:fr": "Vienne",
+        "name:fy": "Wenen",
+        "name:hr": "Be\u010d",
+        "name:ko": "\ube48",
+        "name:nl": "Wenen",
+        "name:pl": "Wiede\u0144",
+        "name:prefix:at": "Statutarstadt",
+        "name:ru": "\u0412\u0435\u043d\u0430",
+        "name:sl": "Dunaj",
+        "name:tzl": "Viadna",
+        "name:vi": "Vi\u00ean",
+        "ref:at:gkz": "90001",
+        "type": "boundary",
+        "website": "http://www.wien.gv.at",
+        "wikidata": "Q1741",
+        "wikipedia": "de:Wien"
+    },
+    "population": 1840226.0,
+    "lat": 48.2083537,
+    "lon": 16.3725042
+}

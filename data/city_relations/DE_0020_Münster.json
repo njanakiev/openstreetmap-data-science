@@ -1,0 +1,32 @@
+{
+    "bounds": {
+        "minlat": 51.8401448,
+        "minlon": 7.4737853,
+        "maxlat": 52.0600251,
+        "maxlon": 7.7743634
+    },
+    "id": 62591,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "550",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05515000",
+        "de:place": "city",
+        "de:regionalschluessel": "055150000000",
+        "name": "M\u00fcnster",
+        "name:ar": "\u0645\u0648\u0646\u0633\u062a\u0631",
+        "name:fy": "Munster",
+        "name:nl": "Munster",
+        "name:prefix": "Stadt",
+        "name:tzl": "Muvaina",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q2742",
+        "wikipedia": "de:M\u00fcnster (Westfalen)"
+    },
+    "population": 300000.0,
+    "lat": 51.9625101,
+    "lon": 7.6251879
+}

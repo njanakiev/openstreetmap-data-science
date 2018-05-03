@@ -1,0 +1,42 @@
+{
+    "bounds": {
+        "minlat": 45.7073666,
+        "minlon": 4.7718134,
+        "maxlat": 45.8082628,
+        "maxlon": 4.8983774
+    },
+    "id": 120965,
+    "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "fixme:addr:postcode": "69001;69002;69003;69004;69005;69006;69007;69008;69009",
+        "name": "Lyon",
+        "name:ar": "\u0644\u064a\u0648\u0646",
+        "name:ca": "Li\u00f3",
+        "name:en": "Lyon",
+        "name:fr": "Lyon",
+        "name:frp": "Liyon",
+        "name:it": "Lione",
+        "name:ja": "\u30ea\u30e8\u30f3",
+        "name:kn": "\u0cb2\u0ccd\u0caf\u0cca",
+        "name:ko": "\ub9ac\uc639",
+        "name:la": "Lugdunum",
+        "name:lt": "Lionas",
+        "name:lv": "Liona",
+        "name:oc": "Lion",
+        "name:ru": "\u041b\u0438\u043e\u043d",
+        "name:sr": "\u041b\u0438\u043e\u043d",
+        "name:uk": "\u041b\u0456\u043e\u043d",
+        "name:vec": "Lion",
+        "note": "\"supression\" du tagaddr:postcode car certains objets h\u00e9ritaient du code postal multiple cf. https://github.com/twain47/Nominatim/issues/208",
+        "population": "500715",
+        "ref:INSEE": "69123",
+        "source:population": "INSEE 2013",
+        "type": "boundary",
+        "wikidata": "Q456",
+        "wikipedia": "fr:Lyon"
+    },
+    "population": 500715.0,
+    "lat": 45.7578137,
+    "lon": 4.8320114
+}

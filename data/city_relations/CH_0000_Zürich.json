@@ -1,0 +1,37 @@
+{
+    "bounds": {
+        "minlat": 47.3202203,
+        "minlon": 8.4480061,
+        "maxlat": 47.4346662,
+        "maxlon": 8.6254413
+    },
+    "id": 1682248,
+    "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "is_in:iso_3166_2": "CH-ZH",
+        "name": "Z\u00fcrich",
+        "name:ca": "Zuric",
+        "name:de": "Z\u00fcrich",
+        "name:en": "Zurich",
+        "name:es": "Z\u00farich",
+        "name:fr": "Zurich",
+        "name:it": "Zurigo",
+        "name:lt": "Ci\u016brichas",
+        "name:ru": "\u0426\u044e\u0440\u0438\u0445",
+        "name:sq": "Cyrihu",
+        "place": "city",
+        "source": "swissBOUNDARIES3D swisstopo 2011",
+        "swisstopo:BEZIRKSNUM": "112",
+        "swisstopo:BFS_NUMMER": "261",
+        "swisstopo:KANTONSNUM": "1",
+        "swisstopo:OBJEKTART": "Gemeindegebiet",
+        "swisstopo:SHN": "CH01120261",
+        "type": "boundary",
+        "wikidata": "Q72",
+        "wikipedia": "de:Z\u00fcrich"
+    },
+    "population": 396027.0,
+    "lat": 47.3723957,
+    "lon": 8.5423216
+}

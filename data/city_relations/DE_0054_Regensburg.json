@@ -1,0 +1,28 @@
+{
+    "bounds": {
+        "minlat": 48.9667457,
+        "minlon": 12.0290745,
+        "maxlat": 49.0764158,
+        "maxlon": 12.1916078
+    },
+    "id": 62411,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+        "TMC:cid_58:tabcd_1:LocationCode": "2219",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "09362000",
+        "de:place": "city",
+        "de:regionalschluessel": "093620000000",
+        "name": "Regensburg",
+        "name:cs": "\u0158ezno",
+        "name:prefix": "Kreisfreie Stadt",
+        "type": "boundary",
+        "wikidata": "Q2978",
+        "wikipedia": "de:Regensburg"
+    },
+    "population": 145000.0,
+    "lat": 49.0195333,
+    "lon": 12.0974869
+}

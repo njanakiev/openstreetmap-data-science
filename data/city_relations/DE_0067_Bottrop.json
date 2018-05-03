@@ -1,0 +1,29 @@
+{
+    "bounds": {
+        "minlat": 51.4970292,
+        "minlon": 6.8328951,
+        "maxlat": 51.6448359,
+        "maxlon": 6.9991075
+    },
+    "id": 62634,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "354",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05512000",
+        "de:place": "city",
+        "de:regionalschluessel": "055120000000",
+        "name": "Bottrop",
+        "name:ar": "\u0628\u0648\u062a\u0631\u0648\u0628",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q3069",
+        "wikipedia": "de:Bottrop"
+    },
+    "population": 116055.0,
+    "lat": 51.521581,
+    "lon": 6.929204
+}

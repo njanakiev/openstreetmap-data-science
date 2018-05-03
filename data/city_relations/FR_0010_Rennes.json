@@ -1,0 +1,38 @@
+{
+    "bounds": {
+        "minlat": 48.0769155,
+        "minlon": -1.7525876,
+        "maxlat": 48.1549705,
+        "maxlon": -1.6244045
+    },
+    "id": 54517,
+    "tags": {
+        "addr:postcode": "35000;35200;35700",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "capital": "4",
+        "name": "Rennes",
+        "name:br": "Roazhon",
+        "name:en": "Rennes",
+        "name:fr": "Rennes",
+        "name:fr-x-gallo": "Renn",
+        "name:ja": "\u30ec\u30f3\u30cc",
+        "name:la": "Condate",
+        "name:lt": "Renas",
+        "name:oc": "Rennes",
+        "name:ru": "\u0420\u0435\u043d\u043d",
+        "name:sr": "\u0420\u0435\u043d",
+        "name:uk": "\u0420\u0435\u043d\u043d",
+        "population": "207178",
+        "ref:FR:SIREN": "213502388",
+        "ref:INSEE": "35238",
+        "source:population": "INSEE 2013",
+        "type": "boundary",
+        "website": "http://metropole.rennes.fr/",
+        "wikidata": "Q647",
+        "wikipedia": "fr:Rennes"
+    },
+    "population": 207178.0,
+    "lat": 48.1113387,
+    "lon": -1.6800198
+}

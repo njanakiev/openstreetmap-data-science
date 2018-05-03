@@ -1,0 +1,38 @@
+{
+    "bounds": {
+        "minlat": 50.8304494,
+        "minlon": 6.7725303,
+        "maxlat": 51.0849743,
+        "maxlon": 7.162028
+    },
+    "id": 62578,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "490",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05315000",
+        "de:place": "city",
+        "de:regionalschluessel": "053150000000",
+        "name": "K\u00f6ln",
+        "name:ar": "\u0643\u0648\u0644\u0648\u0646\u064a\u0627",
+        "name:cs": "Kol\u00edn nad R\u00fdnem",
+        "name:de": "K\u00f6ln",
+        "name:en": "Cologne",
+        "name:es": "Colonia",
+        "name:fr": "Cologne",
+        "name:it": "Colonia",
+        "name:ko": "\ucfb0\ub978",
+        "name:nl": "Keulen",
+        "name:prefix": "Stadt",
+        "name:pt": "Col\u00f3nia",
+        "name:ru": "\u041a\u0451\u043b\u044c\u043d",
+        "type": "boundary",
+        "wikidata": "Q365",
+        "wikipedia": "de:K\u00f6ln"
+    },
+    "population": 1069200.0,
+    "lat": 50.938361,
+    "lon": 6.959974
+}

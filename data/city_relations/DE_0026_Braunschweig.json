@@ -1,0 +1,40 @@
+{
+    "bounds": {
+        "minlat": 52.1867942,
+        "minlon": 10.4124522,
+        "maxlat": 52.3573831,
+        "maxlon": 10.6449081
+    },
+    "id": 62531,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+        "TMC:cid_58:tabcd_1:LocationCode": "356",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "03101000",
+        "de:place": "city",
+        "de:regionalschluessel": "031010000000",
+        "is_in:state": "Niedersachsen",
+        "name": "Braunschweig",
+        "name:ar": "\u0628\u0631\u0648\u0646\u0634\u0648\u0627\u064a\u0643",
+        "name:de": "Braunschweig",
+        "name:en": "Brunswick",
+        "name:fr": "Brunswick",
+        "name:fy": "Breunswyk",
+        "name:nds": "Brunswiek",
+        "name:nl": "Brunswijk",
+        "name:prefix": "Stadt",
+        "name:prefix:de": "Kreisfreie Stadt",
+        "name:ru": "\u0411\u0440\u0430\u0443\u043d\u0448\u0432\u0435\u0439\u0433",
+        "name:suffix:fr": "(ville-arrondissement)",
+        "name:tzl": "Br\u00e1unschvaic",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q2773",
+        "wikipedia": "de:Braunschweig"
+    },
+    "population": 247227.0,
+    "lat": 52.2640651,
+    "lon": 10.525291
+}

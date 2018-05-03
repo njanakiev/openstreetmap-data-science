@@ -1,0 +1,42 @@
+{
+    "bounds": {
+        "minlat": 43.5667088,
+        "minlon": 3.8070597,
+        "maxlat": 43.6533542,
+        "maxlon": 3.9413208
+    },
+    "id": 28722,
+    "tags": {
+        "addr:postcode": "34000;34070;34080;34090",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "capital": "6",
+        "name": "Montpellier",
+        "name:ar": "\u0645\u0648\u0646\u0628\u064a\u0644\u064a\u064a\u0647",
+        "name:bg": "\u041c\u043e\u043d\u043f\u0435\u043b\u0438\u0435",
+        "name:ca": "Montpeller",
+        "name:el": "\u039c\u03bf\u03bd\u03c0\u03b5\u03bb\u03b9\u03ad",
+        "name:fa": "\u0645\u0648\u0646\u200c\u067e\u0644\u06cc\u0647",
+        "name:fr": "Montpellier",
+        "name:frp": "Montpelyi\u00e9r",
+        "name:he": "\u05de\u05d5\u05e0\u05e4\u05dc\u05d9\u05d9\u05d4",
+        "name:ja": "\u30e2\u30f3\u30da\u30ea\u30a8",
+        "name:ko": "\ubabd\ud3a0\ub9ac\uc5d0",
+        "name:la": "Monspessulanus",
+        "name:oc": "Montpelhi\u00e8r",
+        "name:ru": "\u041c\u043e\u043d\u043f\u0435\u043b\u044c\u0435",
+        "name:sr": "\u041c\u043e\u043d\u043f\u0435\u0459\u0435",
+        "name:uk": "\u041c\u043e\u043d\u043f\u0435\u043b\u044c\u0454",
+        "name:zh": "\u8499\u5f7c\u5229\u57c3",
+        "population": "257351",
+        "ref:INSEE": "34172",
+        "source:population": "INSEE 2013",
+        "type": "boundary",
+        "website": "http://www.montpellier.fr/",
+        "wikidata": "Q6441",
+        "wikipedia": "fr:Montpellier"
+    },
+    "population": 276054.0,
+    "lat": 43.6112422,
+    "lon": 3.8767337
+}

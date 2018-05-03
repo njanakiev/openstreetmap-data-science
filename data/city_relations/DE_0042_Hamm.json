@@ -1,0 +1,28 @@
+{
+    "bounds": {
+        "minlat": 51.5786497,
+        "minlon": 7.6747699,
+        "maxlat": 51.7445915,
+        "maxlon": 7.9974351
+    },
+    "id": 62499,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "450",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05915000",
+        "de:place": "city",
+        "de:regionalschluessel": "059150000000",
+        "name": "Hamm",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q2880",
+        "wikipedia": "de:Hamm"
+    },
+    "population": 176048.0,
+    "lat": 51.6804093,
+    "lon": 7.815197
+}

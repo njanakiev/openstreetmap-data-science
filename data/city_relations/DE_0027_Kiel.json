@@ -1,0 +1,27 @@
+{
+    "bounds": {
+        "minlat": 54.2507055,
+        "minlon": 10.0329284,
+        "maxlat": 54.4329395,
+        "maxlon": 10.2186177
+    },
+    "id": 27021,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+        "TMC:cid_58:tabcd_1:LocationCode": "1655",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "01002000",
+        "de:place": "city",
+        "de:regionalschluessel": "010020000000",
+        "name": "Kiel",
+        "name:prefix": "Landeshauptstadt",
+        "type": "boundary",
+        "wikidata": "Q1707",
+        "wikipedia": "de:Kiel"
+    },
+    "population": 246306.0,
+    "lat": 54.3216753,
+    "lon": 10.1371858
+}

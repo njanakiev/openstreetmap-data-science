@@ -1,0 +1,34 @@
+{
+    "bounds": {
+        "minlat": 49.8955342,
+        "minlon": 8.1428311,
+        "maxlat": 50.0353045,
+        "maxlon": 8.3422611
+    },
+    "id": 62630,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "524",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "07315000",
+        "de:place": "city",
+        "de:regionalschluessel": "073150000000",
+        "is_in:iso_3166_2": "DE-RP",
+        "name": "Mainz",
+        "name:ar": "\u0645\u0627\u064a\u0646\u062a\u0633",
+        "name:de": "Mainz",
+        "name:fr": "Mayence",
+        "name:prefix": "Stadt",
+        "name:ru": "\u041c\u0430\u0439\u043d\u0446",
+        "place": "city",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q1720",
+        "wikipedia": "de:Mainz"
+    },
+    "population": 192208.0,
+    "lat": 49.9999952,
+    "lon": 8.2710237
+}

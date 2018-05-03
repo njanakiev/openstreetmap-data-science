@@ -1,0 +1,29 @@
+{
+    "bounds": {
+        "minlat": 51.4030729,
+        "minlon": 11.8555117,
+        "maxlat": 51.5437203,
+        "maxlon": 12.0883745
+    },
+    "id": 62638,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "447",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "15002000",
+        "de:place": "city",
+        "de:regionalschluessel": "150020000000",
+        "name": "Halle (Saale)",
+        "name:ar": "\u0647\u0627\u0644\u0647",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q2814",
+        "wikipedia": "de:Halle (Saale)"
+    },
+    "population": 231565.0,
+    "lat": 51.4825041,
+    "lon": 11.9705452
+}

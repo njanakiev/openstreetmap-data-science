@@ -1,0 +1,37 @@
+{
+    "bounds": {
+        "minlat": 45.7887394,
+        "minlon": 1.1462757,
+        "maxlat": 45.9282898,
+        "maxlon": 1.3175337
+    },
+    "id": 114172,
+    "tags": {
+        "addr:postcode": "87000;87100;87280",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Limoges",
+        "name:ar": "\u0644\u064a\u0645\u0648\u062c",
+        "name:ca": "Llemotges",
+        "name:el": "\u039b\u03b9\u03bc\u03cc\u03b6",
+        "name:fr": "Limoges",
+        "name:he": "\u05dc\u05d9\u05de\u05d5\u05d6'",
+        "name:ja": "\u30ea\u30e2\u30fc\u30b8\u30e5",
+        "name:la": "Augustoritum",
+        "name:lt": "Limo\u017eas",
+        "name:oc": "Lim\u00f2tges",
+        "name:ru": "\u041b\u0438\u043c\u043e\u0436",
+        "name:sr": "\u041b\u0438\u043c\u043e\u0436",
+        "name:uk": "\u041b\u0456\u043c\u043e\u0436",
+        "population": "139150",
+        "ref:FR:SIREN": "218708501",
+        "ref:INSEE": "87085",
+        "source:population": "INSEE 2013",
+        "type": "boundary",
+        "wikidata": "Q45656",
+        "wikipedia": "fr:Limoges"
+    },
+    "population": 139150.0,
+    "lat": 45.8354243,
+    "lon": 1.2644847
+}

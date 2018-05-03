@@ -1,0 +1,32 @@
+{
+    "bounds": {
+        "minlat": 47.519294,
+        "minlon": 7.5546583,
+        "maxlat": 47.5898969,
+        "maxlon": 7.6341406
+    },
+    "id": 1683619,
+    "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Basel",
+        "name:ca": "Basilea",
+        "name:eo": "Bazelo",
+        "name:es": "Basilea",
+        "name:fr": "B\u00e2le",
+        "name:lt": "Bazelis",
+        "name:pl": "Bazylea",
+        "name:pt": "Basileia",
+        "source": "swissBOUNDARIES3D swisstopo 2011",
+        "swisstopo:BFS_NUMMER": "2701",
+        "swisstopo:KANTONSNUM": "12",
+        "swisstopo:OBJEKTART": "Gemeindegebiet",
+        "swisstopo:SHN": "CH12002701",
+        "type": "boundary",
+        "wikidata": "Q78",
+        "wikipedia": "de:Basel"
+    },
+    "population": 174491.0,
+    "lat": 47.5581077,
+    "lon": 7.5878261
+}

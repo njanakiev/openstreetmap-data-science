@@ -1,0 +1,28 @@
+{
+    "bounds": {
+        "minlat": 51.5030645,
+        "minlon": 7.1219521,
+        "maxlat": 51.5733207,
+        "maxlon": 7.2965543
+    },
+    "id": 62396,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "463",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05916000",
+        "de:place": "city",
+        "de:regionalschluessel": "059160000000",
+        "name": "Herne",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q2904",
+        "wikipedia": "de:Herne"
+    },
+    "population": 154417.0,
+    "lat": 51.5380394,
+    "lon": 7.219985
+}

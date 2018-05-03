@@ -1,0 +1,35 @@
+{
+    "bounds": {
+        "minlat": 48.6920188,
+        "minlon": 9.0386007,
+        "maxlat": 48.8663994,
+        "maxlon": 9.3158205
+    },
+    "id": 2793104,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "675",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "08111000",
+        "de:place": "city",
+        "de:regionalschluessel": "081110000000",
+        "name": "Stuttgart",
+        "name:ar": "\u0634\u062a\u0648\u062a\u063a\u0627\u0631\u062a",
+        "name:de": "Stuttgart",
+        "name:de:prefix": "Landeshauptstadt",
+        "name:ko": "\uc288\ud22c\ud2b8\uac00\ub974\ud2b8",
+        "name:prefix": "Landeshauptstadt",
+        "name:ru": "\u0428\u0442\u0443\u0442\u0433\u0430\u0440\u0442",
+        "name:swg": "Schtugert",
+        "note": "kreisfrei, Stadtkreis Stuttgart",
+        "source": "LGL, www.lgl-bw.de",
+        "type": "boundary",
+        "wikidata": "Q1022",
+        "wikipedia": "de:Stuttgart"
+    },
+    "population": 613392.0,
+    "lat": 48.7784485,
+    "lon": 9.1800132
+}

@@ -1,0 +1,35 @@
+{
+    "bounds": {
+        "minlat": 50.6621399,
+        "minlon": 5.9748624,
+        "maxlat": 50.8572449,
+        "maxlon": 6.2180747
+    },
+    "id": 62564,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "306",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05334002",
+        "de:place": "town",
+        "de:regionalschluessel": "053340002002",
+        "name": "Aachen",
+        "name:el": "\u0386\u03b1\u03c7\u03b5\u03bd",
+        "name:es": "Aquisgr\u00e1n",
+        "name:fr": "Aix-la-Chapelle",
+        "name:lt": "Achenas",
+        "name:lv": "\u0100hene",
+        "name:pl": "Akwizgran",
+        "name:prefix": "Stadt",
+        "name:pt": "Aquisgr\u00e3o",
+        "name:ru": "\u0410\u0445\u0435\u043d",
+        "type": "boundary",
+        "wikidata": "Q1017",
+        "wikipedia": "de:Aachen"
+    },
+    "population": 241683.0,
+    "lat": 50.776351,
+    "lon": 6.083862
+}

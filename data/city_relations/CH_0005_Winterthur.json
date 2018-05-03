@@ -1,0 +1,26 @@
+{
+    "bounds": {
+        "minlat": 47.44972,
+        "minlon": 8.6566062,
+        "maxlat": 47.5480053,
+        "maxlon": 8.8099293
+    },
+    "id": 1682243,
+    "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Winterthur",
+        "source": "swissBOUNDARIES3D swisstopo 2011",
+        "swisstopo:BEZIRKSNUM": "110",
+        "swisstopo:BFS_NUMMER": "230",
+        "swisstopo:KANTONSNUM": "1",
+        "swisstopo:OBJEKTART": "Gemeindegebiet",
+        "swisstopo:SHN": "CH01100230",
+        "type": "boundary",
+        "wikidata": "Q9125",
+        "wikipedia": "de:Winterthur"
+    },
+    "population": 108044.0,
+    "lat": 47.4991723,
+    "lon": 8.7291498
+}

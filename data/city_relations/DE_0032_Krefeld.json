@@ -1,0 +1,28 @@
+{
+    "bounds": {
+        "minlat": 51.2857809,
+        "minlon": 6.4779483,
+        "maxlat": 51.405491,
+        "maxlon": 6.7062122
+    },
+    "id": 62748,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "493",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "05114000",
+        "de:place": "city",
+        "de:regionalschluessel": "051140000000",
+        "name": "Krefeld",
+        "name:prefix": "Stadt",
+        "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+        "type": "boundary",
+        "wikidata": "Q2805",
+        "wikipedia": "de:Krefeld"
+    },
+    "population": 222058.0,
+    "lat": 51.3331205,
+    "lon": 6.5623343
+}

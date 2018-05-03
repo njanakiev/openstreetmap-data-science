@@ -1,0 +1,35 @@
+{
+    "bounds": {
+        "minlat": 43.2857792,
+        "minlon": -0.3925513,
+        "maxlat": 43.3580393,
+        "maxlon": -0.2943049
+    },
+    "id": 162431,
+    "tags": {
+        "addr:postcode": "64000",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Pau",
+        "name:ar": "\u0628\u0627\u0648",
+        "name:ca": "Pau",
+        "name:eu": "Paue",
+        "name:ja": "\u30dd\u30fc",
+        "name:la": "Palum",
+        "name:lt": "Po",
+        "name:oc": "Pau",
+        "name:ru": "\u041f\u043e",
+        "name:sr": "\u041f\u043e",
+        "name:zh": "\u6ce2\u57ce",
+        "population": "79798",
+        "ref:INSEE": "64445",
+        "source:population": "INSEE 2014",
+        "type": "boundary",
+        "website": "http://www.pau.fr/",
+        "wikidata": "Q132671",
+        "wikipedia": "fr:Pau"
+    },
+    "population": 79798.0,
+    "lat": 43.2957547,
+    "lon": -0.3685668
+}

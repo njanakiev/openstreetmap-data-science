@@ -1,0 +1,33 @@
+{
+    "bounds": {
+        "minlat": 46.5422279,
+        "minlon": 0.2911332,
+        "maxlat": 46.6270136,
+        "maxlon": 0.4516769
+    },
+    "id": 132348,
+    "tags": {
+        "addr:postcode": "86000",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Poitiers",
+        "name:br": "Poatie",
+        "name:el": "\u03a0\u03bf\u03c5\u03b1\u03c4\u03b9\u03ad",
+        "name:fr": "Poitiers",
+        "name:he": "\u05e4\u05d5\u05d0\u05d8\u05d9\u05d9\u05d4",
+        "name:ja": "\u30dd\u30ef\u30c1\u30a8",
+        "name:lt": "Puatj\u0117",
+        "name:oc": "Peitieus",
+        "name:ru": "\u041f\u0443\u0430\u0442\u044c\u0435",
+        "name:sr": "\u041f\u043e\u0430\u0442\u0458\u0435",
+        "name:uk": "\u041f\u0443\u0430\u0442\u044c\u0454",
+        "ref:INSEE": "86194",
+        "source:addr:postcode": "source of postcode is from osm nodes",
+        "type": "boundary",
+        "wikidata": "Q6616",
+        "wikipedia": "fr:Poitiers"
+    },
+    "population": 87435.0,
+    "lat": 46.5802596,
+    "lon": 0.340196
+}

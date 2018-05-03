@@ -1,0 +1,32 @@
+{
+    "bounds": {
+        "minlat": 46.1777724,
+        "minlon": 6.1102411,
+        "maxlat": 46.231885,
+        "maxlon": 6.1758527
+    },
+    "id": 1685488,
+    "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Gen\u00e8ve",
+        "name:ca": "Ginebra",
+        "name:de": "Genf",
+        "name:en": "Geneva",
+        "name:es": "Ginebra",
+        "name:fr": "Gen\u00e8ve",
+        "name:hu": "Genf",
+        "name:it": "Ginevra",
+        "source": "swissBOUNDARIES3D swisstopo 2011",
+        "swisstopo:BFS_NUMMER": "6621",
+        "swisstopo:KANTONSNUM": "25",
+        "swisstopo:OBJEKTART": "Gemeindegebiet",
+        "swisstopo:SHN": "CH25006621",
+        "type": "boundary",
+        "wikidata": "Q71",
+        "wikipedia": "fr:Gen\u00e8ve"
+    },
+    "population": 191557.0,
+    "lat": 46.2017559,
+    "lon": 6.1466014
+}

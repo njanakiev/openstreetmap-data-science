@@ -1,0 +1,40 @@
+{
+    "bounds": {
+        "minlat": 49.4103619,
+        "minlon": 8.4141602,
+        "maxlat": 49.5904894,
+        "maxlon": 8.5899902
+    },
+    "id": 62691,
+    "tags": {
+        "TMC:cid_58:tabcd_1:Class": "Area",
+        "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+        "TMC:cid_58:tabcd_1:LocationCode": "526",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "de:amtlicher_gemeindeschluessel": "08222000",
+        "de:place": "city",
+        "de:regionalschluessel": "082220000000",
+        "name": "Mannheim",
+        "name:da": "Mannheim",
+        "name:de": "Mannheim",
+        "name:el": "\u039c\u03ac\u03bd\u03c7\u03b1\u03ca\u03bc",
+        "name:en": "Mannheim",
+        "name:fr": "Mannheim",
+        "name:he": "\u05de\u05e0\u05d4\u05d9\u05d9\u05dd",
+        "name:it": "Mannheim",
+        "name:ja": "\u30de\u30f3\u30cf\u30a4\u30e0",
+        "name:la": "Manhemium",
+        "name:lb": "Mannheim",
+        "name:prefix": "Universit\u00e4tsstadt",
+        "name:ru": "\u041c\u0430\u043d\u0433\u0435\u0439\u043c",
+        "name:tr": "Mannheim",
+        "source": "LGL, www.lgl-bw.de",
+        "type": "boundary",
+        "wikidata": "Q2119",
+        "wikipedia": "de:Mannheim"
+    },
+    "population": 307640.0,
+    "lat": 49.489591,
+    "lon": 8.467236
+}
