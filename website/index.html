@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Data Science with OpenStreetMap</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+  
+  <meta name="author" content="Nikolai Janakiev" />
+  <meta name="description" content="This project explores the way how common data science methods can be applied on data from OpenStreetMap. The basis for the data were the counts of the most common amenities like restaurant, cafe, etc. (specified with Key:amenity) found on the various buildings and elements in OpenStreetMap." />
+  
+  <meta property="og:description" content="This project explores the way how common data science methods can be applied on data from OpenStreetMap. The basis for the data were the counts of the most common amenities like restaurant, cafe, etc. (specified with Key:amenity) found on the various buildings and elements in OpenStreetMap." />
+  <meta property="og:url" content="https://apps.janakiev.com/osm-data-science/" />
+  <meta property="og:title" content="Data Science with OpenStreetMap" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://apps.janakiev.com/osm-data-science/screen.png" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@njanakiev" />
+  <meta name="twitter:creator" content="@njanakiev" />
+
+  <script type="application/ld+json">
+    {"description":"This project explores the way how common data science methods can be applied on data from OpenStreetMap. The basis for the data were the counts of the most common amenities like restaurant, cafe, etc. (specified with Key:amenity) found on the various buildings and elements in OpenStreetMap.","author":{"@type":"Person","name":"Nikolai Janakiev"},"@type":"Website","url":"http://apps.janakiev.com/osm-data-science/","image":"https://apps.janakiev.com/osm-data-science/screen.png","headline":"Data Science with OpenStreetMap","mainEntityOfPage":{"@type":"WebPage","@id":"https://apps.janakiev.com/osm-data-science/"},"@context":"http://schema.org"}</script>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js"></script>
+	<script src="https://unpkg.com/jquery@3.3.1/dist/jquery.min.js"></script>
+	<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div id='container'></div>
+	<div id="sidebar">
+      <h1 id="header">Data Science with OpenStreetMap</h1>
+      <p>This project explores the way how common data science methods can be applied on data from <a href="https://www.openstreetmap.org/">OpenStreetMap</a>. The basis for the data were the counts of the most common amenities like restaurant, cafe, etc. (specified with <a href="https://wiki.openstreetmap.org/wiki/Key:amenity">Key:amenity</a>) found on the various buildings and elements in OpenStreetMap. The interactive visualization is done with <a href="https://leafletjs.com/">leaflet.js</a>.</p>
+      <p>You can switch bellow between viewing the amenities per capita for each region or a logistic regression trained on two countries (e.g. Germany and France denoted as DEFR). The trained logistic regression model is then applied to other regions to show similarities between the two classified countries.</p>
+      <select id="select_type" name="select_type">
+        <option value="amenity">Amenities per Capita</option>
+        <option value="logistic_regression">Logistic Regression Probalities</option>
+      </select>
+      <ul>
+        <li><a href="https://janakiev.com/slides/osm-data-science">Presentation Slides</a></li>
+        <li><a href="https://github.com/njanakiev/openstreetmap-data-science">Repository</a></li>
+      </ul>
+    </div>
+	<script src="index.js"></script>
+</body>
+</html>
