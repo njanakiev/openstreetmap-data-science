@@ -1,8 +1,9 @@
 import gzip
 import math
+import logging
+import argparse
 import osmium
 import shapely.wkb
-import pandas as pd
 from enum import Enum
 from collections import defaultdict
 
@@ -15,11 +16,11 @@ class OSMType(Enum):
 
 
 class OSMTagHandler(osmium.SimpleHandler):
-    def __init__(self, key, file_handler=None, filter_amenities=None):
+    def __init__(self, key, file_handler=None, filter_values=None):
         super(OSMTagHandler, self).__init__()
         self.key = key
         self.file_handler = file_handler
-        self.filter_amenities = filter_amenities
+        self.filter_values = filter_values
         self.counter = defaultdict(int)
         self.bounds = [math.inf, math.inf, -math.inf, -math.inf]
 
@@ -48,7 +49,7 @@ class OSMTagHandler(osmium.SimpleHandler):
     def process_element(self, elem, osm_type):
         for tag in elem.tags:
             if (tag.k == self.key) and \
-               (tag.v in self.filter_amenities if self.filter_amenities else True):
+               (tag.v in self.filter_values if self.filter_values else True):
                 self.counter[osm_type.name] += 1
                 self.counter['total'] += 1
                 if self.file_handler is None:
@@ -72,7 +73,7 @@ class OSMTagHandler(osmium.SimpleHandler):
                         c = geom.centroid
                         lon, lat = c.x, c.y
                 except RuntimeError as e:
-                    print(f"RuntimeError: {e}, for {osm_type.name}: {elem.id}")
+                    logging.error(f"RuntimeError: {e}, for {osm_type.name}: {elem.id}")
 
                 self.update_bounds(lon, lat)
                 self.write_row(elem.id, osm_type.value, tag.v, lon, lat)
@@ -91,18 +92,51 @@ class OSMTagHandler(osmium.SimpleHandler):
 
 
 if __name__ == '__main__':
-    src_filepath = "data/europe-amenity.osm.pbf"
-    src_stats_filepath = "data/taginfo_amenity_counts.csv"
-    dst_filepath = "data/europe-amenity.csv.gz"
-    key = "amenity"
+    parser = argparse.ArgumentParser(description="OpenStreetMap Extractor")
+    parser.add_argument(
+        help="Input osm.pbf filepath",
+        action='store', dest='src_filepath')
+    parser.add_argument(
+        help="Output filepath csv.gz or txt.gz",
+        action='store', dest='dst_filepath')
+    parser.add_argument(
+        "-k", "--key",
+        help="Specified OSM key",
+        dest="key", default="amenity", type=str)
+    parser.add_argument(
+        "-f", "--filter", 
+        help="Filter OSM values",
+        dest="filter_values", default=None,
+        type=lambda s: s.split(','))
+    parser.add_argument(
+        "-v", "--verbose",
+        help="Verbose output",
+        action="store_true", dest="verbose")
+    args = parser.parse_args()
 
-    # Load taginfo statistics
-    df_taginfo = pd.read_csv(src_stats_filepath)
-    df_taginfo = df_taginfo.sort_values(by='count', ascending=False)
-    filter_amenities = set(df_taginfo['value'][:50].values)
+    logging.basicConfig(
+        format='%(asctime)s [%(levelname)s] %(message)s',
+        level=logging.DEBUG if args.verbose else logging.INFO)
 
-    with gzip.open(dst_filepath, "wt") as f:
-        handler = OSMTagHandler("amenity", f, filter_amenities=filter_amenities)
-        handler.apply_file(src_filepath)
-        print(handler.counter)
-        print(handler.bounds)
+    logging.debug(f"src_filepath  : {args.src_filepath}")
+    logging.debug(f"dst_filepath  : {args.dst_filepath}")
+    logging.debug(f"key           : {args.key}")
+    logging.debug(f"filter_values : {args.filter_values}")
+
+    if args.dst_filepath.endswith('.csv.gz') or \
+       args.dst_filepath.endswith('.txt.gz'):
+        with gzip.open(args.dst_filepath, "wt") as f:
+            handler = OSMTagHandler(args.key, f, filter_values=args.filter_values)
+            handler.apply_file(args.src_filepath)
+            logging.info(dict(handler.counter))
+            logging.info(handler.bounds)
+    elif args.dst_filepath.endswith('.csv') or \
+         args.dst_filepath.endswith('.txt'):
+        with open(args.dst_filepath, "w") as f:
+            handler = OSMTagHandler(args.key, f, filter_values=args.filter_values)
+            handler.apply_file(args.src_filepath)
+            logging.info(dict(handler.counter))
+            logging.info(handler.bounds)    
+    else:
+        logging.error("Output file type not supported")
+        exit(-1)
