@@ -1,3 +1,4 @@
+import re
 import gzip
 import math
 import logging
@@ -73,10 +74,13 @@ class OSMTagHandler(osmium.SimpleHandler):
                         c = geom.centroid
                         lon, lat = c.x, c.y
                 except RuntimeError as e:
-                    logging.error(f"RuntimeError: {e}, for {osm_type.name}: {elem.id}")
+                    logging.error(
+                        f"RuntimeError: {e}, for {osm_type.name}: {elem.id}")
 
+                # Remove all special characters
+                value = re.sub('[^A-Za-z0-9-_.]+', '', tag.v)
+                self.write_row(elem.id, osm_type.value, value, lon, lat)
                 self.update_bounds(lon, lat)
-                self.write_row(elem.id, osm_type.value, tag.v, lon, lat)
 
     def node(self, elem):
         self.process_element(elem, OSMType.node)
@@ -92,7 +96,8 @@ class OSMTagHandler(osmium.SimpleHandler):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description="OpenStreetMap Extractor")
+    parser = argparse.ArgumentParser(
+        description="OpenStreetMap Extractor")
     parser.add_argument(
         help="Input osm.pbf filepath",
         action='store', dest='src_filepath')
