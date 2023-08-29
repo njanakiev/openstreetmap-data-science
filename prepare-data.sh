@@ -2,13 +2,12 @@ set -e
 
 NE_FULL_DOWNLOAD=false
 
-# Install osmium-tool for later use
-sudo apt update
-sudo apt install osmium-tool
+mkdir -p data
 
 # Download planet OSM if it does not exist
 # https://planet.openstreetmap.org/
 if [ ! -f data/planet-latest.osm.pbf ]; then
+  echo "Dowloading planet-latest.osm.pbf"
   time wget https://planet.openstreetmap.org/pbf/planet-latest.osm.pbf \
     --quiet -O data/planet-latest.osm.pbf
 fi
@@ -17,6 +16,7 @@ fi
 # https://www.naturalearthdata.com/downloads/
 if [ ! -f data/natural_earth_vector.gpkg ]; then
   if [ "$NE_FULL_DOWNLOAD" = true ]; then
+    echo "Downloading natural_earth_vector.gpkg"
     time wget http://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip \
       --quiet -O data/natural_earth_vector.gpkg.zip
     unzip -j natural_earth_vector.gpkg.zip
@@ -50,8 +50,12 @@ if [ ! -f data/nuts_60m.gpkg ]; then
 fi
 
 # Extract centroids from amenities
-if [ ! -f data/europe-amenity.csv.gz ]; then
-  python scripts/extract.py
+if [ ! -f data/planet-amenity.csv.gz ]; then
+  python scripts/extract.py \
+    data/planet-amenity.osm.pbf \
+    data/planet-amenity.csv.gz \
+    --key amenity \
+    --verbose
 fi
 
 # Perform spatial join between amenities and NUTS regions
