@@ -3,10 +3,10 @@ version: "3.7"
 services:
     jupyter:
         build:
-            context: .
+            context: ./docker
             dockerfile: ./Dockerfile
         restart: unless-stopped
         ports:
             - 8900:8888
         volumes:
-            - "../:/workspace"
+            - "./:/workspace"

@@ -5,6 +5,7 @@ channels:
 dependencies:
   - python=3.9
   - pip
+  - setuptools==61.3.1
   - scipy
   - requests
   - datashader
@@ -44,4 +45,3 @@ dependencies:
   - pip:
     - osmium
     - wbdata
-prefix: /home/nikolai/anaconda3/envs/gis
